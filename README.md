@@ -14,4 +14,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshikinc&show_icons=true&locale=en" alt="joshikinc" /></p>
 <div><p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshikinc&show_icons=true&locale=en&layout=compact" alt="joshikinc" /></p></div>
-<div><p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshikinc&" alt="joshikinc" /></p></div>
+<div><p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshikinc&" alt="joshikinc" /></p></div>
